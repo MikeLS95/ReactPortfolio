@@ -5,7 +5,6 @@ import Contact from "./routes/coreRoutes/Contact";
 import NavBar from "./components/NavBar";
 import Tech from "./routes/coreRoutes/Tech";
 import Projects from "./routes/coreRoutes/Projects";
-import "./output.css"
 
 const App = () => {
   return (
